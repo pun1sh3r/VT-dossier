@@ -7,7 +7,7 @@ import sys
 import time
 import ast
 import sys
-sys.path.append('/home/lmendieta/Downloads/analysis/ioc-entry/simpson-osint/')
+
 try:
   import iocminion
 except ImportError:
